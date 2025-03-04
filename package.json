@@ -14,5 +14,9 @@
   "type": "module",
   "workspaces": [
     "src/my_project_frontend"
-  ]
+  ],
+  "dependencies": {
+    "@tailwindcss/vite": "^4.0.9",
+    "tailwindcss": "^4.0.9"
+  }
 }
